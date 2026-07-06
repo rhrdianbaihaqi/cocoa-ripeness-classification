@@ -13,6 +13,16 @@ menyetel arsitektur model.
 
 ---
 
+## 👥 Tim Penyusun
+
+| Nama | NIM | Kelas |
+|---|---|---|
+| Muhammad Rahardian Baihaqi | 1237050023 | ML-C |
+| Muhammad Ridwan Nur Ihsan | 1237050090 | ML-C |
+| Muhammad Daffa Naufal Putra | 1237050060 | ML-C |
+
+---
+
 ## 🚀 Demo Langsung
 
 Coba modelnya secara interaktif tanpa perlu instalasi apa pun:
@@ -159,16 +169,6 @@ Evaluasi (macro-F1, confusion matrix)
         ▼
 Demo web (Gradio + Grad-CAM)
 ```
-
----
-
-## 👥 Tim Penyusun
-
-| Nama | NIM | Kelas |
-|---|---|---|
-| Muhammad Rahardian Baihaqi | 1237050023 | ML-C |
-| Muhammad Ridwan Nur Ihsan | 1237050090 | ML-C |
-| Muhammad Daffa Naufal Putra | 1237050060 | ML-C |
 
 ---
 
