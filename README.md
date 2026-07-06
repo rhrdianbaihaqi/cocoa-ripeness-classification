@@ -61,6 +61,14 @@ Konversi anotasi deteksi (YOLO) -> citra klasifikasi (crop per pod) -> pemetaan 
 pembagian data **anti-kebocoran** (per gambar asal) -> fine-tuning 2 tahap EfficientNet-B0
 -> evaluasi (macro-F1, confusion matrix) -> demo web (Gradio + Grad-CAM).
 
+## Tim Penyusun
+
+| Nama | NIM | Kelas |
+|---|---|---|
+| _Nama Anggota 1_ | _NIM 1_ | _Kelas 1_ |
+| _Nama Anggota 2_ | _NIM 2_ | _Kelas 2_ |
+| _Nama Anggota 3_ | _NIM 3_ | _Kelas 3_ |
+
 ## Sitasi
 
 Jika memakai proyek ini, mohon sitasi dataset asli (Kaggle) dan repo ini.
