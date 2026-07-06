@@ -6,6 +6,14 @@ Klasifikasi kesiapan panen buah kakao dari citra menggunakan **deep learning**
 (EfficientNet-B0, transfer learning). Proyek ini menekankan pendekatan **data-centric**:
 menganalisis dan memperbaiki kualitas data, bukan hanya menyetel model.
 
+## Tim Penyusun
+
+| Nama | NIM | Kelas |
+|---|---|---|
+| _Muhammad Rahardian Baihaqi_ | _1237050023_ | _Kelas ML-C_ |
+| _Muhammad Ridwan Nur Ihsan_ | _1237050090_ | _Kelas ML-C_ |
+| _Muhammad Daffa Naufal Putra_ | _1237050060_ | _Kelas ML-C_ |
+
 ## Ringkasan Hasil
 
 | Model | Kelas | Akurasi (test) | Macro-F1 |
@@ -61,13 +69,6 @@ Konversi anotasi deteksi (YOLO) -> citra klasifikasi (crop per pod) -> pemetaan 
 pembagian data **anti-kebocoran** (per gambar asal) -> fine-tuning 2 tahap EfficientNet-B0
 -> evaluasi (macro-F1, confusion matrix) -> demo web (Gradio + Grad-CAM).
 
-## Tim Penyusun
-
-| Nama | NIM | Kelas |
-|---|---|---|
-| _Muhammad Rahardian Baihaqi_ | _1237050023_ | _Kelas ML-C_ |
-| _Muhammad Ridwan Nur Ihsan_ | _1237050090_ | _Kelas ML-C_ |
-| _Muhammad Daffa Naufal Putra_ | _1237050060_ | _Kelas ML-C_ |
 
 ## Sitasi
 
