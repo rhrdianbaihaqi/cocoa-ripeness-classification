@@ -65,9 +65,9 @@ pembagian data **anti-kebocoran** (per gambar asal) -> fine-tuning 2 tahap Effic
 
 | Nama | NIM | Kelas |
 |---|---|---|
-| _Nama Anggota 1_ | _NIM 1_ | _Kelas 1_ |
-| _Nama Anggota 2_ | _NIM 2_ | _Kelas 2_ |
-| _Nama Anggota 3_ | _NIM 3_ | _Kelas 3_ |
+| _Muhammad Rahardian Baihaqi_ | _1237050023_ | _Kelas ML-C_ |
+| _Muhammad Ridwan Nur Ihsan_ | _1237050090_ | _Kelas ML-C_ |
+| _Muhammad Daffa Naufal Putra_ | _1237050060_ | _Kelas ML-C_ |
 
 ## Sitasi
 
