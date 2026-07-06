@@ -1,0 +1,34 @@
+# --- Data & artefak besar ---
+data/*
+!data/.gitkeep
+crops/
+split/
+*.zip
+
+# --- Bobot model (host di Releases / Drive) ---
+*.pt
+*.pth
+*.onnx
+models/
+
+# --- Kredensial & rahasia (JANGAN PERNAH di-commit) ---
+kaggle.json
+.kaggle/
+*.env
+*.key
+secrets/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# --- OS & editor ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
